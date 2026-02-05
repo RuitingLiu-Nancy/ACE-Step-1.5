@@ -12,7 +12,9 @@
 <p align="center">
     <img src="./assets/orgnization_logos.png" width="100%" alt="StepFun Logo">
 </p>
-
+<p align="center">
+    <img src="./assets/orgnization_logos.png" width="100%" alt="StepFun Logo">
+</p>
 ## Table of Contents
 
 - [✨ Features](#-features)
